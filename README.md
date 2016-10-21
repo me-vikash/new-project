@@ -1,2 +1,2 @@
 # new-project
-just another repository
+learning GIT
